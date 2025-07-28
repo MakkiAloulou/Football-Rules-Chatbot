@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+websockets
+nest_asyncio
+python-dotenv
+groq
+PyMuPDF
+langchain
+streamlit
+sentence-transformers
+faiss-cpu
+python-multipart
